@@ -130,7 +130,7 @@ export default {
     handleHideTooltip () {
       if (this.timmer) clearTimeout(this.timmer);
 
-      this.$refs.tooltip.hide();
+      this.$refs?.tooltip?.hide();
     },
   },
 };
