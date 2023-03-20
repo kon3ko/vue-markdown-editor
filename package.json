@@ -1,6 +1,6 @@
 {
-  "name": "kon3ko/v-md-editor",
-  "version": "1.7.12",
+  "name": "v-md-editor",
+  "version": "1.7.13",
   "description": "A markdown editor built on Vue",
   "keywords": [
     "javascript",
